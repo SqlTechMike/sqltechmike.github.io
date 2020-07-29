@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on SqlTechMike</title>
+    <link>https://sqltechmike.com/post/</link>
+    <description>Recent content in Articles on SqlTechMike</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://sqltechmike.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Main Engineering</title>
+      <link>https://sqltechmike.com/post/welcome-to-main-engineering/</link>
+      <pubDate>Tue, 28 Jul 2020 09:00:00 -0400</pubDate>
+      
+      <guid>https://sqltechmike.com/post/welcome-to-main-engineering/</guid>
+      <description>It&amp;rsquo;s been a while, but I&amp;rsquo;ve realized that it&amp;rsquo;s time to make a return to active blogging. I&amp;rsquo;ve had the occasional post through my employer&amp;rsquo;s blogging platform, but I need to get better about blogging consistently and I wanted to have a forum that was mine.
+My goal is to treat this blog as an archive of thoughts and experiences as I encounter new challenges in my professional career. I hope that they provide value, and perhaps even entertainment, to you as a reader.</description>
+    </item>
+    
+  </channel>
+</rss>
